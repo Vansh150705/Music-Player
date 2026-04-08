@@ -16,11 +16,11 @@ It allows users to play, pause, and switch between songs with a clean interface.
 
 ## 📁 Project Structure
 
-index.html
-style.css
-index.js
-songs (.mp3)
-images (.jpg)
+- index.html  
+- style.css  
+- index.js  
+- songs (.mp3)  
+- images (.jpg)
 
 
 ## ▶️ How to Run
